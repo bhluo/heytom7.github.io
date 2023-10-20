@@ -48,8 +48,7 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    #twitter: samarsault
-    CSDN:https://blog.csdn.net/luobohong?type=blog
+    twitter: https://blog.csdn.net/luobohong?type=blog
     github:  heytom7
     #linkedIn: in/samarsault# Exclude from processing.
 # The following items will not be processed, by default.
