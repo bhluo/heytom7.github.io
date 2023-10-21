@@ -9,7 +9,7 @@ categories: mood note
 
 ## Hello World!
 
-I am so excited as I have my own blog, I wil keep record my daily study note here. 
+I am so excited because I have my own blog, I wil keep recording my daily study notes here. 
 
 `System.out.println("HelloWorld");`
 
