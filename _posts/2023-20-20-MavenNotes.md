@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-10-12 19:20:05 +0800
-categories: jekyll update
+title:  "Study Notes of Maven"
+date:   2023-10-20 23:20:05 +0800
+categories: note maven
 ---
 
 # 学习笔记
