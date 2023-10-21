@@ -1,11 +1,9 @@
 ---
-​---
 layout: post
 title:  "Study note of Maven"
 date:   2023-10-20 23:25:05 +0800
 categories: Maven Configuration
 ​---
----
 
 # 学习笔记
 
